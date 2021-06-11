@@ -1,4 +1,6 @@
 # Feature Fusion for Image Retrieval with Adaptive Bitrate Allocation and Hard Negative Mining
+[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Codes%20for%20Our%20Paper:%20"Feature%20Fusion%20for%20Image%20Retrieval%20with%20Adaptive%20Bitrate%20Allocation%20and%20Hard%20Negative%20Mining"%20&url=https://github.com/bupt-ai-cz/ImageRetrieval_DF_CDVS)
+
 This is a toolbox that implements the training and testing of the approach described in our papers:
 **Feature Fusion for Image Retrieval with Adaptive Bitrate Allocation and Hard Negative Mining**  
 
